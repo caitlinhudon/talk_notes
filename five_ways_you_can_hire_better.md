@@ -1,6 +1,6 @@
 Title: 5 Ways You Can Hire Better  
-Speaker: VM (Vicky) Brasseur | @vmbrasseur
-Forum: Lead Dev Austin 
+Speaker: VM (Vicky) Brasseur | @vmbrasseur  
+Forum: Lead Dev Austin  
 Slides: [link](https://ia803105.us.archive.org/24/items/tld2018-austin-hiringtips/03-tld2018-austin-hiringtips-with_speaker_notes.pdf)
 
 Five ways you can hire better:
